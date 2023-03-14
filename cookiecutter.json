@@ -1,0 +1,9 @@
+{
+    "project_name": "Vue3 + Vite + TailwindCSS + Pinia",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
+    "repo_name": "{{ cookiecutter.project_slug }}",
+    "description": "A short description of the project.",
+    "author_name": "Your name (or your organization/company/team)",
+    "open_source_license": ["MIT", "BSD-3-Clause", "No license file"]
+}
+
