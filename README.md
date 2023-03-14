@@ -1,4 +1,4 @@
-# Vue 3 + Vite + Pinia + TailwindCSS
+# Vue 3 + Vite + TailwindCSS + Pinia
 
 ![alt text](https://github.com/miguelocana/cookiecutter-vue3-vite-pinia-tailwindcss/blob/main/public/demo.png?raw=true)
 
