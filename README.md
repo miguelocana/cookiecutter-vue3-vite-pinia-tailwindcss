@@ -2,6 +2,8 @@
 
 ![alt text](https://github.com/miguelocana/cookiecutter-vue3-vite-pinia-tailwindcss/blob/main/public/demo.png?raw=true)
 
+A Cookiecutter template for Vue 3 projects with Vite as a build tool, Pinia as a store, and TailwindCSS as a styling framework. Deploy Vue 3 projects faster with this pre-configured template.
+
 ## Requirements
 
 - [Python](https://www.python.org/downloads/)
